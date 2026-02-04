@@ -1,3 +1,4 @@
+![ArduSimple](ArduSimple.jpg)<br>
 Welcome to the official ArduSimple GitHub page!<br>
 Since 2018, we’ve been working to make GPS/GNSS and RTK technology easier to use — whether you’re building a prototype or working on a research project.<br>
 
